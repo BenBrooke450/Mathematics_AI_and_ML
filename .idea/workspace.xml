@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144db513-ea49-44eb-97f0-aa5417e68225" name="Changes" comment="Basic">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Matrix Multiplication (Dot Product).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Matrix Multiplication (Dot Product).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Cross-Entropy Loss.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3. Dim.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758902697489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Basic">
+      <option name="closed" value="true" />
+      <created>1758930408503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758930408503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
